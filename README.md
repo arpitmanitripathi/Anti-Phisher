@@ -61,13 +61,4 @@ Open your browser and go to: [http://localhost:5000](http://localhost:5000)
 - Ensure `phishing.pkl` is present in the same directory as `app.py`.
 - You can customize the dataset and model training logic in `model_train.py`.
 
-## 🙌 Author
-
-**Rudra Dubey**  
-🔗 [GitHub: dubeyrudra-1808](https://github.com/dubeyrudra-1808)
-
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
